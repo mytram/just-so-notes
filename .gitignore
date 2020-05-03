@@ -1,0 +1,9 @@
+# -*- mode: gitignore; -*-
+
+# Emacs temp files
+*~
+\#*\#
+.\#*
+
+**/*.html
+**/*.htm
